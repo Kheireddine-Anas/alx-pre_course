@@ -1,2 +1,2 @@
 My first readme
-Anas editiom
+Anas edition
